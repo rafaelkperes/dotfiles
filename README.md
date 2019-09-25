@@ -23,3 +23,13 @@ https://github.com/jarun/nnn
 ### lf
 
 https://github.com/gokcehan/lf
+
+## Image Viewer
+
+### feh
+
+https://feh.finalrewind.org/
+
+### sxiv
+
+https://github.com/muennich/sxiv
