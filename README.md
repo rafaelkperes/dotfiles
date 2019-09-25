@@ -19,3 +19,7 @@ https://st.suckless.org/
 ### nnn
 
 https://github.com/jarun/nnn
+
+### lf
+
+https://github.com/gokcehan/lf
