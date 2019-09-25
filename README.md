@@ -2,49 +2,20 @@
 
 Dotfiles and other linux configuration related stuff.
 
-## terminal emulator
+## Window Manager
 
-https://terminator-gtk3.readthedocs.io/en/latest/
+### dwm
 
-## .usrrc
+https://dwm.suckless.org/
 
-```sh
+## Terminal Emulator
 
-```
-## fonts
+### st
 
-https://github.com/powerline/fonts
+https://st.suckless.org/
 
-## zsh and ohmyzsh
+## File Manager
 
-ZSH theme: `wedisagree`
+### nnn
 
-# ack (for grep)
-
-https://beyondgrep.com/
-
-## vim and extensions
-
-https://github.com/amix/vimrc
-
-https://github.com/fatih/vim-go
-
-## rofi
-
-https://wiki.archlinux.org/index.php/Rofi
-
-```
-rofi.theme: /usr/share/rofi/themes/android_notification.rasi
-```
-
-App. Launcher:
-
-```sh
-rofi -combi-modi "drun,run" -show combi -lines 5 -columns 2
-```
-
-Window Manager:
-
-```sh
-rofi -show window -lines 5 -columns 2
-```
+https://github.com/jarun/nnn
