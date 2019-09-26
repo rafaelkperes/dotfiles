@@ -33,3 +33,9 @@ https://feh.finalrewind.org/
 ### sxiv
 
 https://github.com/muennich/sxiv
+
+## Git
+
+### Logging
+
+https://github.com/mackyle/git-log-compact
