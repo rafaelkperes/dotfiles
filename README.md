@@ -2,6 +2,11 @@
 
 Dotfiles and other linux configuration related stuff.
 
+## Install
+
+Run `./install.sh` to install the files to your `$HOME`.
+Requires a zsh as the default shell with `antibody` installed. 
+
 ## Window Manager
 
 ### dwm
